@@ -3,10 +3,11 @@
 
 Haremos un proyecto con el framwork Django para certificar el curso
 comando usados
-git log ve los cambios
+git log --oneline ve los cambios
 git push sube a la nube
 git branch dev : crea una nueva rama
 git checkout dev : 
+git
 
 ## Entornos virtuales
 
