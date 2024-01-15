@@ -38,6 +38,8 @@ python manage.py runserver
 con ctrl+c detengo el servidor
 git add . (agrega todo de una)
 
+django-admin startapp core (para crear aplicaciones)
+
 
 
 
